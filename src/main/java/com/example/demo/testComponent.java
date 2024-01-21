@@ -8,6 +8,6 @@ public class testComponent {
 
     @GetMapping("/")
     public String test4() {
-        return "test4 is running!@#$";
+        return "test4 is running!!";
     }
 }
